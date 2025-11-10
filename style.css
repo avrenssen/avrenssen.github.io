@@ -1,0 +1,308 @@
+body {
+ 	font-family: Verdana, Geneva, sans-serif;
+ 	font-size: 100%;
+	line-height: 125%;
+ 	width: 56em;
+ 	background-color: rgb(240,240,240);
+	display: block;
+	margin: 0 auto;
+}
+
+/* Don't underline hyperlinks */
+a { 
+ text-decoration: none; 
+}
+
+noscript {
+ color: darkgrey;
+}
+
+.hidden {
+ display: none;
+}
+
+/* Class for objects that require javascript to work.
+   They will be unhidden by a JS function at page load.
+   If JS is disabled, the user won't see links that don't work, etc. */
+.starthidden {
+ display: none;
+}
+
+div.shown {
+ display: block;
+}
+
+a.shown {
+ display: inline;
+}
+
+#site-navigation {
+	margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+ 	padding: 0.1em;
+	padding-top: 0.2em;
+	padding-bottom: 0.3em;
+ 	background-color: rgb(150,195,255);
+}
+
+#site-navigation a {
+	color: #152952;
+	padding: 0.15em 0.2em;
+    line-height: 125%;
+	background-color: rgb(170,210,255);
+	border: 1px solid #999;
+    border-radius: 4px;
+}
+
+#site-navigation a:hover, #site-navigation [href="#"] {
+	background-color: #3366CC;
+	color: #D6E0F5;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.nav {
+    text-align: center;
+}
+
+.navcurrent {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+}
+
+a:link { color: Black; }    /* unvisited link  */
+a:visited { color: Black; } /* visited link    */
+a:hover { color: Blue; }    /* mouse over link */
+a:active { color: Red; }    /* selected link   */
+
+.main {
+	background-color: rgb(150,195,255);
+	padding-top: 1em;
+	padding-bottom: 0.5em;
+}
+
+.main p {
+  margin-left: 2em;
+	margin-right: 2em;
+}
+
+.name {
+	color: #152952;
+}
+
+.data {
+  margin-top: 0.8em;
+}
+
+.data h2 {
+  display:inline-block;
+  font-size:1em;
+  margin:0 0 1em 1.3em;
+  vertical-align:top;
+  width:5em;
+}
+
+.data p {
+  display:inline-block;
+  margin:0;
+}
+
+img.face {
+ width: 150px; 
+ border: 1px solid rgb(0,0,0);
+ margin-left: 2em; 
+ border-radius: 4px;
+}
+
+img.banner {
+ padding-top: 5px;
+ padding-bottom: 5px;
+}
+
+.apenstaartje {
+ padding-left: 1px;
+ padding-right: 1px;
+ margin-bottom: -2px;
+}
+
+.address-info {
+  display:inline-block;
+  margin:0;
+  vertical-align:top;
+}
+
+.address-info-bottom {
+ display: none;
+}
+
+.logo {
+  width: 200px;
+/*	border: 1px solid #999; */
+  border-radius: 4px;
+  margin: 0.5em 2.5em 1em 2.5em;
+  vertical-align: 100%;
+  background-color: rgb(230,70,38);
+  padding: 0.5em;
+}
+
+.logo-bottom {
+ display: none;
+ background-color: rgb(230,70,38);
+}
+
+div.noscript {
+ display: inline;
+}
+
+.schedule {
+	display: block;
+	margin-left: auto;
+  margin-right: auto;
+	width: 800px;
+}
+
+@media all and (max-width: 56em) {
+		body {
+				width: 100%;
+				font-size: 100%;
+		}
+		.container {
+				padding: 2em 0.5em;
+		}
+		#site-navigation-wrapper {
+				padding: 0.3em;
+		}
+		#site-navigation {
+				margin: 0 auto;
+		}
+		#site-navigation .name {
+				display: block;
+				margin-bottom: 0.5em;
+				margin-right: 0;
+				margin-top: 0.2em;
+		}
+		#site-navigation a {
+				margin-bottom: 0.3em;
+				margin-left: 0;
+				margin-right: 1em;
+				background-color: rgb(170,210,255);
+				border: 1px solid #999;
+				border-radius: 4px;
+				line-height: 170%;
+		}
+		img.face {
+				width: 130px;
+				margin-left: 2em;
+		}
+		.data {
+				margin-top: 0.5em;
+		}
+		.data h2 {
+				font-size:1em;
+				margin:0 0 0.5em 1em;
+				vertical-align:top;
+				width:5em;
+		}
+		.logo {
+		 		display: inline;
+				width: 300px;
+				margin-left: 2em;		
+                background-color: rgb(230,70,38);
+		}
+		img.banner {
+				width: 90%;
+		}
+		.schedule {
+				width: 100%;
+		}
+}
+
+@media all and (max-width: 768px) {
+		.logo {
+		 		display: block;
+				width: 15em;
+				margin: auto;
+				margin-top: 1em;
+				background-color: rgb(230,70,38);
+		}
+    img.face {
+				width: 130px;
+				margin: auto;
+				display: block;
+		}
+    .address-info {
+        display: block;
+        margin-left: auto;
+        margin-right:auto;
+        vertical-align: top;
+    }
+    .data h2 {
+        display: block;
+        margin-left: auto;
+        margin-right:auto;
+    }
+    .data {
+				text-align: center;
+        font-size: 90%;
+		}
+}
+
+@media all and (max-width: 22em) {
+		.container {
+				padding: 0.5em;
+		}
+		body {
+				width: 100%;
+				font-size: 90%;
+		}
+		#site-navigation {
+				width: 22em;
+		}
+		#site-navigation .name {
+				margin-bottom: 0.3em;
+		}
+		#site-navigation a {
+				border-radius: 0;
+				border-style: none;
+				box-shadow: none;
+				margin: 0;
+				padding: 0.15em 0.2em;
+				background-color: rgb(170,210,255);
+				border: 1px solid #999;
+				border-radius: 4px;
+				line-height: 175%;
+		}
+		#site-navigation [href="#"] {
+				color: #D6E0F5;
+		}
+		#site-navigation a:hover {
+				color: #FFFFFF;
+		}
+		img.face {
+				width: 120px;
+		}
+		.address-info {
+		 		display: none;
+		}
+		.logo {
+		 		display: none;
+                background-color: rgb(230,70,38);
+		}
+		.address-info-bottom {
+		 		display: block;
+		}
+		.logo-bottom {
+		 		display: block;
+				width: 15em;
+				margin: auto;
+				margin-top: 1em;
+				/* border: 1px solid #999; */
+				border-radius: 4px;
+				background-color: rgb(230,70,38);
+		}
+		img.banner {
+				width: 90%;
+		}
+}

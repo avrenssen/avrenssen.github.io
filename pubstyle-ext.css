@@ -1,0 +1,31 @@
+.navigation {
+	border-radius: 10px;
+    background: rgb(150,195,255);
+    padding: 5px;
+}
+
+.abstract {
+	border: 0px;
+ 	border-radius: 15px;
+    background: rgb(150,195,255);
+    padding: 15px; 
+}
+
+/* Undoing one of Sander's general CSS changes */
+.bibentry>img {
+    float: none;
+    height: 24px;
+    margin-right: 0em;
+}
+
+.tab {
+	text-indent: 20px;
+}
+
+ul {
+	padding-top: 5px;
+}
+
+li {
+	padding-bottom: 5px;
+}

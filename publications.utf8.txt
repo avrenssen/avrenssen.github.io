@@ -1,0 +1,538 @@
+Currently Under Review.
+
+   Spanner for the $0/1/\infty$ weighted region problem.
+   J. Gudmundsson, Z. Huang, A. van Renssen, and S. Wong.
+   Submitted to Journal of Computational Geometry (JoCG).
+
+   Computing a subtrajectory cluster from $c$-packed trajectories.
+   J. Gudmundsson, Z. Huang, A. van Renssen, and S. Wong.
+   Submitted to Journal of Computational Geometry (JoCG).
+
+   Routing in histograms.
+   M.-K. Chiu, J. Cleve, K. Klost, M. Korman, W. Mulzer, A. van Renssen, M. Roeloffzen, and M. Willert.
+   Submitted to Journal of Computational Geometry (JoCG).
+
+   The mutual visibility problem for fat robots with lights.
+   R. J. Alsaedi, J. Gudmundsson, and A. van Renssen.
+   Submitted to Computing in Geometry and Topology (CGT).
+
+   Dynamic on-demand delivery with spatial divisions of labor.
+   Y. Yang, M. Ramezani, and A. van Renssen.
+   Submitted to Transportation Research Part C (TRC).
+
+
+Journal Papers.
+
+   Oriented spanners.
+   K. Buchin, J. Gudmundsson, A. Kalb, A. Popov, C. Rehs, A. van Renssen, and S. Wong.
+   Accepted to Algorithmica.
+
+   Pattern formation for fat robots with memory.
+   R. J. Alsaedi, J. Gudmundsson, and A. van Renssen.
+   Computational Geometry: Theory and Applications (CGTA), 129:102189, 2025.
+
+   Pattern formation for fat robots with lights.
+   R. J. Alsaedi, J. Gudmundsson, and A. van Renssen.
+   Computational Geometry: Theory and Applications (CGTA), 128:102161, 2025.
+
+   Shortest paths of mutually visible robots.
+   R. J. Alsaedi, J. Gudmundsson, and A. van Renssen.
+   International Journal of Computational Geometry & Applications (IJCGA), 35(01n02):41-50, 2025.
+
+   The tight spanning ratio of the rectangle Delaunay triangulation.
+   A. van Renssen, Y. Sha, Y. Sun, and S. Wong.
+   Algorithmica, 87:1060-1080, 2025.
+
+   Generalized sweeping line spanners.
+   K. Lee and A. van Renssen.
+   Theoretical Computer Science (TCS) special issue of COCOON 2022, 989:114390, 2024.
+
+   Kinetic geodesic Voronoi diagrams in a simple polygon.
+   M. Korman, A. van Renssen, M. Roeloffzen, and F. Staals.
+   SIAM Journal on Discrete Mathematics (SIDMA), 37(4):2276-2311, 2023.
+
+   Graphs with large total angular resolution.
+   O. Aichholzer, M. Korman, Y. Okamoto, I. Parada, D. Perz, A. van Renssen, and B. Vogtenhuber.
+   Theoretical Computer Science (TCS), 943:73-88, 2023.
+
+   Local routing in a tree metric 1-spanner.
+   M. Brankovic, J. Gudmundsson, and A. van Renssen.
+   Journal of Combinatorial Optimization (JOCO) special issue of COCOON 2020, 44:2642-2660, 2022.
+
+   Covering a set of line segments with a few squares.
+   J. Gudmundsson, M. van de Kerkhof, A. van Renssen, F. Staals, L. Wiratma, and S. Wong.
+   Theoretical Computer Science (TCS) special issue of CIAC 2021, 923:74-98, 2022.
+
+   Local routing in sparse and lightweight geometric graphs.
+   V. Ashvinkumar, J. Gudmundsson, C. Levcopoulos, B. J. Nilsson, and A. van Renssen.
+   Algorithmica, 84(5):1316–1340, 2022.
+
+   Translation invariant Fréchet distance queries.
+   J. Gudmundsson, A. van Renssen, Z. Saeidi, and S. Wong.
+   Algorithmica, 83(11):3514-3533, 2021.
+
+   Snipperclips: Cutting tools into desired polygons using themselves.
+   Z. Abel, H. A. Akitaya, M.-K. Chiu, E. D. Demaine, M. L. Demaine, A. Hesterberg, M. Korman, J. Lynch, A. van Renssen, and M. Roeloffzen.
+   Computational Geometry: Theory and Applications (CGTA), 98:101784, 2021.
+
+   Universal reconfiguration of facet-connected modular robots by pivots: The $O(1)$ musketeers.
+   H. A. Akitaya, E. D. Arkin, M. Damian, E. D. Demaine, V. Dujmović, R. Flatland, M. Korman, B. Palop, I. Parada, A. van Renssen, and V. Sacristán.
+   Algorithmica, 83(5):1316–1351, 2021.
+
+   Constrained routing between non-visible vertices.
+   P. Bose, M. Korman, A. van Renssen, and S. Verdonschot.
+   Theoretical Computer Science (TCS), 861:144-154, 2021.
+
+   Bounded-degree spanners in the presence of polygonal obstacles.
+   A. van Renssen and G. Wong.
+   Theoretical Computer Science (TCS) special issue of COCOON 2020, 854:159-173, 2021.
+
+   Rectilinear link diameter and radius in a rectilinear polygonal domain.
+   E. Arseneva, M.-K. Chiu, M. Korman, A. Markovic, Y. Okamoto, A. Ooms, A. van Renssen, and M. Roeloffzen.
+   Computational Geometry: Theory and Applications (CGTA), 92:101685, 2021.
+
+   Symmetric assembly puzzles are hard, beyond a few pieces.
+   E. D. Demaine, M. Korman, J. S. Ku, J. Mitchell, Y. Otachi, A. van Renssen, M. Roeloffzen, R. Uehara, and Y. Uno.
+   Computational Geometry: Theory and Applications (CGTA), 90:101648, 2020.
+
+   Routing in polygonal domains.
+   B. Banyassady, M.-K. Chiu, M. Korman, W. Mulzer, A. van Renssen, M. Roeloffzen, P. Seiferth, Y. Stein, B. Vogtenhuber, and M. Willert.
+   Computational Geometry: Theory and Applications (CGTA) special issue of EuroCG 2017, 87:101593, 2020.
+
+   Balanced line separators of unit disk graphs.
+   P. Carmi, M.-K. Chiu, M. Katz, M. Korman, Y. Okamoto, A. van Renssen, M. Roeloffzen, T. Shiitada, and S. Smorodinsky.
+   Computational Geometry: Theory and Applications (CGTA), 86:101575, 2020.
+
+   Spanning properties of Yao and $\Theta$-graphs in the presence of constraints.
+   P. Bose and A. van Renssen.
+   International Journal of Computational Geometry & Applications (IJCGA), 29(02):95-120, 2019.
+
+   Geometry and generation of a new graph planarity game.
+   R. Kraaijer, M. van Kreveld, W. Meulemans, and A. van Renssen.
+   Journal of Graph Algorithms and Applications (JGAA), 23(4):603-624, 2019.
+
+   Fully-dynamic and kinetic conflict-free coloring of intervals with respect to points.
+   M. de Berg, T. Leijsen, A. Markovic, A. van Renssen, M. Roeloffzen, and G. Woeginger.
+   International Journal of Computational Geometry & Applications (IJCGA) special issue of ISAAC 2017, 29(01):49-72, 2019.
+
+   Packing plane spanning graphs with short edges in complete geometric graphs.
+   O. Aichholzer, T. Hackl, M. Korman, A. Pilz, A. van Renssen, M. Roeloffzen, G. Rote, and B. Vogtenhuber.
+   Computational Geometry: Theory and Applications (CGTA), 82:1-15, 2019.
+
+   Faster algorithms for growing prioritized disks and rectangles.
+   H.-K. Ahn, S. W. Bae, J. Choi, M. Korman, W. Mulzer, E. Oh, J.-w. Park, A. van Renssen, and A. Vigneron.
+   Computational Geometry: Theory and Applications (CGTA), 80:23-39, 2019.
+
+   On plane constrained bounded-degree spanners.
+   P. Bose, R. Fagerberg, A. van Renssen, and S. Verdonschot.
+   Algorithmica, 81(4):1392-1415, 2019.
+
+   Dynamic graph coloring.
+   L. Barba, J. Cardinal, M. Korman, S. Langerman, A. van Renssen, M. Roeloffzen, and S. Verdonschot.
+   Algorithmica, 81(4):1319-1341, 2019.
+
+   Routing on the visibility graph.
+   P. Bose, M. Korman, A. van Renssen, and S. Verdonschot.
+   Journal of Computational Geometry (JoCG), 9(1):430–453, 2018.
+
+   Constrained generalized Delaunay graphs are plane spanners.
+   P. Bose, J.-L. De Carufel, and A. van Renssen.
+   Computational Geometry: Theory and Applications (CGTA), 74:50-65, 2018.
+
+   Time-space trade-offs for triangulations and Voronoi diagrams.
+   M. Korman, W. Mulzer, A. van Renssen, M. Roeloffzen, P. Seiferth, and Y. Stein.
+   Computational Geometry: Theory and Applications (CGTA) special issue of EuroCG 2015, 73:35-45, 2018.
+
+   Improved time-space trade-offs for computing Voronoi diagrams.
+   B. Banyassady, M. Korman, W. Mulzer, A. van Renssen, M. Roeloffzen, P. Seiferth, and Y. Stein.
+   Journal of Computational Geometry (JoCG), 9(1):191-212, 2018.
+
+   Continuous Yao graphs.
+   D. Bakhshesh, L. Barba, P. Bose, J.-L. De Carufel, M. Damian, R. Fagerberg, M. Farshi, A. van Renssen, P. Taslakian, and S. Verdonschot.
+   Computational Geometry: Theory and Applications (CGTA), 67:42-52, 2018.
+
+   Upper and lower bounds for online routing on Delaunay triangulations.
+   N. Bonichon, P. Bose, J.-L. De Carufel, L. Perković, and A. van Renssen.
+   Discrete & Computational Geometry (DCG), 58(2):482-504, 2017.
+
+   Competitive local routing with constraints.
+   P. Bose, R. Fagerberg, A. van Renssen, and S. Verdonschot.
+   Journal of Computational Geometry (JoCG), 8(1):125-152, 2017.
+
+   Time-space trade-off algorithms for triangulating a simple polygon.
+   B. Aronov, M. Korman, S. Pratt, A. van Renssen, and M. Roeloffzen.
+   Journal of Computational Geometry (JoCG), 8(1):105-124, 2017.
+
+   On interference among moving sensors and related problems.
+   J.-L. De Carufel, M. Katz, M. Korman, A. van Renssen, M. Roeloffzen, and S. Smorodinsky.
+   Journal of Computational Geometry (JoCG), 8(1):32-46, 2017.
+
+   Hanabi is NP-hard, even for cheaters who look at their cards.
+   J.-F. Baffier, M.-K. Chiu, Y. Diez, M. Korman, V. Mitsou, A. van Renssen, M. Roeloffzen, and Y. Uno.
+   Theoretical Computer Science (TCS), 675:43-55, 2017.
+
+   The price of order.
+   P. Bose, P. Morin, and A. van Renssen.
+   International Journal of Computational Geometry & Applications (IJCGA) special issue of ISAAC 2014, 26(03n04):135-149, 2017.
+
+   Area-preserving simplification and schematization of polygonal subdivisions.
+   K. Buchin, W. Meulemans, A. van Renssen, and B. Speckmann.
+   ACM Transactions on Spatial Algorithms and Systems (ACM TSAS), 2(1):2:1-2:36, 2016.
+
+   Towards tight bounds on theta-graphs: More is not always better.
+   P. Bose, J.-L. De Carufel, P. Morin, A. van Renssen, and S. Verdonschot.
+   Theoretical Computer Science (TCS), 616:70-93, 2016.
+
+   Optimal local routing on Delaunay triangulations defined by empty equilateral triangles.
+   P. Bose, R. Fagerberg, A. van Renssen, and S. Verdonschot.
+   SIAM Journal on Computing (SICOMP), 44(6):1626-1649, 2015.
+
+   New and improved spanning ratios for Yao graphs.
+   L. Barba, P. Bose, M. Damian, R. Fagerberg, W. L. Keng, J. O’Rourke, A. van Renssen, P. Taslakian, S. Verdonschot, and G. Xia.
+   Journal of Computational Geometry (JoCG) special issue for SoCG 2014, 6(2):19-53, 2015.
+
+   The $\theta_5$-graph is a spanner.
+   P. Bose, P. Morin, A. van Renssen, and S. Verdonschot.
+   Computational Geometry: Theory and Applications (CGTA), 48(2):108-119, 2015.
+
+   Theta-3 is connected.
+   O. Aichholzer, S. W. Bae, L. Barba, P. Bose, M. Korman, A. van Renssen, P. Taslakian, and S. Verdonschot.
+   Computational Geometry: Theory and Applications (CGTA) special issue for CCCG 2013, 47(9):910-917, 2014.
+
+   Making triangulations 4-connected using flips.
+   P. Bose, D. Jansens, A. van Renssen, M. Saumell, and S. Verdonschot.
+   Computational Geometry: Theory and Applications (CGTA) special issue for CCCG 2011, 47(2, Part A):187-197, 2014.
+
+
+Peer Reviewed Conference Papers.
+
+   Local routing on ordered $\Theta$-graphs.
+   A. van Renssen and S. Sakaguchi.
+   Accepted to the 36th International Symposium on Algorithms and Computation (ISAAC 2025).
+
+   Spanner for the $0/1/\infty$ weighted region problem.
+   J. Gudmundsson, Z. Huang, A. van Renssen, and S. Wong.
+   In Proceedings of the 19th Algorithms and Data Structures Symposium (WADS 2025), volume 349 of Leibniz International Proceedings in Informatics, pages 33:1-33:15, 2025.
+
+   A WSPD, separator and small tree cover for $c$-packed graphs.
+   L. Deryckere, J. Gudmundsson, A. van Renssen, Y. Sha, and S. Wong.
+   In Proceedings of the 19th Algorithms and Data Structures Symposium (WADS 2025), volume 349 of Leibniz International Proceedings in Informatics, pages 21:1-21:15, 2025.
+
+   Computing a subtrajectory cluster from $c$-packed trajectories.
+   J. Gudmundsson, Z. Huang, A. van Renssen, and S. Wong.
+   In Proceedings of the 34th International Symposium on Algorithms and Computation (ISAAC 2023), volume 283 of Leibniz International Proceedings in Informatics, pages 34:1-34:15, 2023.
+
+   The tight spanning ratio of the rectangle Delaunay triangulation.
+   A. van Renssen, Y. Sha, Y. Sun, and S. Wong.
+   In Proceedings of the 31st European Symposium on Algorithms (ESA 2023), volume 274 of Leibniz International Proceedings in Informatics, pages 99:1-99:15, 2023.
+
+   Oriented spanners.
+   K. Buchin, J. Gudmundsson, A. Kalb, A. Popov, C. Rehs, A. van Renssen, and S. Wong.
+   In Proceedings of the 31st European Symposium on Algorithms (ESA 2023), volume 274 of Leibniz International Proceedings in Informatics, pages 26:1-26:16, 2023.
+
+   The mutual visibility problem for fat robots.
+   R. J. Alsaedi, J. Gudmundsson, and A. van Renssen.
+   In Proceedings of the 18th Algorithms and Data Structures Symposium (WADS 2023), volume 14079 of Lecture Notes in Computer Science, pages 15-28, 2023.
+
+   Generalized sweeping line spanners.
+   K. Lee and A. van Renssen.
+   In Proceedings of the 28th Annual International Computing and Combinatorics Conference (COCOON 2022), volume 13595 of Lecture Notes in Computer Science, pages 406-418, 2022.
+
+   Covering a set of line segments with a few squares.
+   J. Gudmundsson, M. van de Kerkhof, A. van Renssen, F. Staals, L. Wiratma, and S. Wong.
+   In Proceedings of the 12th International Conference on Algorithms and Complexity (CIAC 2021), volume 12701 of Lecture Notes in Computer Science, pages 286-299, 2021.
+
+   Local routing in a tree metric 1-spanner.
+   M. Brankovic, J. Gudmundsson, and A. van Renssen.
+   In Proceedings of the 26th Annual International Computing and Combinatorics Conference (COCOON 2020), volume 12273 of Lecture Notes in Computer Science, pages 174-185, 2020.
+
+   Bounded-degree spanners in the presence of polygonal obstacles.
+   A. van Renssen and G. Wong.
+   In Proceedings of the 26th Annual International Computing and Combinatorics Conference (COCOON 2020), volume 12273 of Lecture Notes in Computer Science, pages 40-51, 2020.
+
+   Kinetic geodesic Voronoi diagrams in a simple polygon.
+   M. Korman, A. van Renssen, M. Roeloffzen, and F. Staals.
+   In Proceedings of the 47th International Colloquium on Automata, Languages, and Programming (ICALP 2020), volume 168 of Leibniz International Proceedings in Informatics, pages 75:1-75:17, 2020.
+
+   A simple dynamization of trapezoidal point location in planar subdivisions.
+   M. Brankovic, N. Grujic, A. van Renssen, and M. P. Seybold.
+   In Proceedings of the 47th International Colloquium on Automata, Languages, and Programming (ICALP 2020), volume 168 of Leibniz International Proceedings in Informatics, pages 18:1-18:18, 2020.
+
+   Routing in histograms.
+   M.-K. Chiu, J. Cleve, K. Klost, M. Korman, W. Mulzer, A. van Renssen, M. Roeloffzen, and M. Willert.
+   In Proceedings of the 14th International Conference and Workshops on Algorithms and Computation (WALCOM 2020), volume 12049 of Lecture Notes in Computer Science, pages 43-54, 2020.
+
+   Local routing in sparse and lightweight geometric graphs.
+   V. Ashvinkumar, J. Gudmundsson, C. Levcopoulos, B. J. Nilsson, and A. van Renssen.
+   In Proceedings of the 30th International Symposium on Algorithms and Computation (ISAAC 2019), volume 149 of Leibniz International Proceedings in Informatics, pages 30:1-30:13, 2019.
+
+   Graphs with large total angular resolution.
+   O. Aichholzer, M. Korman, Y. Okamoto, I. Parada, D. Perz, A. van Renssen, and B. Vogtenhuber.
+   In Proceedings of the 27th International Symposium on Graph Drawing and Network Visualization (GD 2019), volume 11904 of Lecture Notes in Computer Science, pages 193-199, 2019.
+
+   Universal reconfiguration of facet-connected modular robots by pivots: The $O(1)$ musketeers.
+   H. A. Akitaya, E. D. Arkin, M. Damian, E. D. Demaine, V. Dujmović, R. Flatland, M. Korman, B. Palop, I. Parada, A. van Renssen, and V. Sacristán.
+   In Proceedings of the 27th European Symposium on Algorithms (ESA 2019), volume 144 of Leibniz International Proceedings in Informatics, pages 3:1-3:14, 2019.
+
+   Rectilinear link diameter and radius in a rectilinear polygonal domain.
+   E. Arseneva, M.-K. Chiu, M. Korman, A. Markovic, Y. Okamoto, A. Ooms, A. van Renssen, and M. Roeloffzen.
+   In Proceedings of the 29th International Symposium on Algorithms and Computation (ISAAC 2018), volume 123 of Leibniz International Proceedings in Informatics, pages 58:1-58:13, 2018.
+
+   Geometry and generation of a new graph planarity game.
+   R. Kraaijer, M. van Kreveld, W. Meulemans, and A. van Renssen.
+   In Proceedings of the 2018 IEEE Conference on Computational Intelligence and Games (CIG 2018), pages 189-196, 2018.
+
+   Fully-dynamic and kinetic conflict-free coloring of intervals with respect to points.
+   M. de Berg, T. Leijsen, A. Markovic, A. van Renssen, M. Roeloffzen, and G. Woeginger.
+   In Proceedings of the 28th International Symposium on Algorithms and Computation (ISAAC 2017), volume 92 of Leibniz International Proceedings in Informatics, pages 26:1-26:13, 2017.
+
+   Routing on the visibility graph.
+   P. Bose, M. Korman, A. van Renssen, and S. Verdonschot.
+   In Proceedings of the 28th International Symposium on Algorithms and Computation (ISAAC 2017), volume 92 of Leibniz International Proceedings in Informatics, pages 18:1-18:12, 2017.
+
+   Routing in polygonal domains.
+   B. Banyassady, M.-K. Chiu, M. Korman, W. Mulzer, A. van Renssen, M. Roeloffzen, P. Seiferth, Y. Stein, B. Vogtenhuber, and M. Willert.
+   In Proceedings of the 28th International Symposium on Algorithms and Computation (ISAAC 2017), volume 92 of Leibniz International Proceedings in Informatics, pages 10:1-10:13, 2017.
+
+   Faster algorithms for growing prioritized disks and rectangles.
+   H.-K. Ahn, S. W. Bae, J. Choi, M. Korman, W. Mulzer, E. Oh, J.-w. Park, A. van Renssen, and A. Vigneron.
+   In Proceedings of the 28th International Symposium on Algorithms and Computation (ISAAC 2017), volume 92 of Leibniz International Proceedings in Informatics, pages 3:1-3:13, 2017.
+
+   Constrained routing between non-visible vertices.
+   P. Bose, M. Korman, A. van Renssen, and S. Verdonschot.
+   In Proceedings of the 23rd Annual International Computing and Combinatorics Conference (COCOON 2017), volume 10392 of Lecture Notes in Computer Science, pages 62-74, 2017.
+
+   Balanced line separators of unit disk graphs.
+   P. Carmi, M.-K. Chiu, M. Katz, M. Korman, Y. Okamoto, A. van Renssen, M. Roeloffzen, T. Shiitada, and S. Smorodinsky.
+   In Proceedings of the 15th Algorithms and Data Structures Symposium (WADS 2017), volume 10389 of Lecture Notes in Computer Science, pages 241-252, 2017.
+
+   Dynamic graph coloring.
+   L. Barba, J. Cardinal, M. Korman, S. Langerman, A. van Renssen, M. Roeloffzen, and S. Verdonschot.
+   In Proceedings of the 15th Algorithms and Data Structures Symposium (WADS 2017), volume 10389 of Lecture Notes in Computer Science, pages 97-108, 2017.
+
+   Snipperclips: Cutting tools into desired polygons using themselves.
+   E. D. Demaine, M. Korman, A. van Renssen, and M. Roeloffzen.
+   In Proceedings of the 29th Canadian Conference on Computational Geometry (CCCG 2017), pages 56-61, 2017.
+
+   Improved time-space trade-offs for computing Voronoi diagrams.
+   B. Banyassady, M. Korman, W. Mulzer, A. van Renssen, M. Roeloffzen, P. Seiferth, and Y. Stein.
+   In Proceedings of the 34th International Symposium on Theoretical Aspects of Computer Science (STACS 2017), volume 66 of Leibniz International Proceedings in Informatics, pages 9:1-9:14, 2017.
+
+   Packing short plane spanning trees in complete geometric graphs.
+   O. Aichholzer, T. Hackl, M. Korman, A. Pilz, G. Rote, A. van Renssen, M. Roeloffzen, and B. Vogtenhuber.
+   In Proceedings of the 27th International Symposium on Algorithms and Computation (ISAAC 2016), volume 64 of Leibniz International Proceedings in Informatics, pages 9:1-9:12, 2016.
+
+   Symmetric assembly puzzles are hard, beyond a few pieces.
+   E. D. Demaine, M. Korman, J. S. Ku, J. Mitchell, Y. Otachi, A. van Renssen, M. Roeloffzen, R. Uehara, and Y. Uno.
+   In Proceedings of the Proceedings-version of the 18th Japan Conference on Discrete and Computational Geometry and Graphs (JCDCG^2 2015), volume 9943 of Lecture Notes in Computer Science, pages 180-192, 2016.
+
+   Constrained generalized Delaunay graphs are plane spanners.
+   P. Bose, J.-L. De Carufel, and A. van Renssen.
+   In Proceedings of the Computational Intelligence in Information Systems (CIIS 2016), volume 532 of Advances in Intelligent Systems and Computing, pages 281-293, 2016.
+
+   On interference among moving sensors and related problems.
+   J.-L. De Carufel, M. Katz, M. Korman, A. van Renssen, M. Roeloffzen, and S. Smorodinsky.
+   In Proceedings of the 24th European Symposium on Algorithms (ESA 2016), volume 57 of Leibniz International Proceedings in Informatics, pages 34:1-34:11, 2016.
+
+   Time-space trade-offs for triangulating a simple polygon.
+   B. Aronov, M. Korman, S. Pratt, A. van Renssen, and M. Roeloffzen.
+   In Proceedings of the 15th Scandinavian Symposium and Workshops on Algorithm Theory (SWAT 2016), volume 53 of Leibniz International Proceedings in Informatics, pages 30:1-30:12, 2016.
+
+   Hanabi is NP-complete, even for cheaters who look at their cards.
+   J.-F. Baffier, M.-K. Chiu, Y. Diez, M. Korman, V. Mitsou, A. van Renssen, M. Roeloffzen, and Y. Uno.
+   In Proceedings of the 8th International Conference on Fun with Algorithms (FUN 2016), volume 49 of Leibniz International Proceedings in Informatics, pages 4:1-4:17, 2016.
+
+   Competitive local routing with constraints.
+   P. Bose, R. Fagerberg, A. van Renssen, and S. Verdonschot.
+   In Proceedings of the 26th International Symposium on Algorithms and Computation (ISAAC 2015), volume 9472 of Lecture Notes in Computer Science, pages 23-34, 2015.
+
+   Upper and lower bounds for online routing on Delaunay triangulations.
+   N. Bonichon, P. Bose, J.-L. De Carufel, L. Perković, and A. van Renssen.
+   In Proceedings of the 23rd European Symposium on Algorithms (ESA 2015), volume 9294 of Lecture Notes in Computer Science, pages 203-214, 2015.
+
+   Constrained empty-rectangle Delaunay graphs.
+   P. Bose, J.-L. De Carufel, and A. van Renssen.
+   In Proceedings of the 27th Canadian Conference on Computational Geometry (CCCG 2015), pages 57-62, 2015.
+
+   Time-space trade-offs for triangulations and Voronoi diagrams.
+   M. Korman, W. Mulzer, A. van Renssen, M. Roeloffzen, P. Seiferth, and Y. Stein.
+   In Proceedings of the 14th Algorithms and Data Structures Symposium (WADS 2015), volume 9214 of Lecture Notes in Computer Science, pages 482-492, 2015.
+
+   The price of order.
+   P. Bose, P. Morin, and A. van Renssen.
+   In Proceedings of the 25th International Symposium on Algorithms and Computation (ISAAC 2014), volume 8889 of Lecture Notes in Computer Science, pages 313-325, 2014.
+
+   On the spanning ratio of constrained Yao-graphs.
+   A. van Renssen.
+   In Proceedings of the 26th Canadian Conference on Computational Geometry (CCCG 2014), pages 239-243, 2014.
+
+   Continuous Yao graphs.
+   L. Barba, P. Bose, J.-L. De Carufel, M. Damian, R. Fagerberg, A. van Renssen, P. Taslakian, and S. Verdonschot.
+   In Proceedings of the 26th Canadian Conference on Computational Geometry (CCCG 2014), pages 100-106, 2014.
+
+   New and improved spanning ratios for Yao graphs.
+   L. Barba, P. Bose, M. Damian, R. Fagerberg, W. L. Keng, J. O’Rourke, A. van Renssen, P. Taslakian, S. Verdonschot, and G. Xia.
+   In Proceedings of the 30th Annual Symposium on Computational Geometry (SoCG 2014), pages 30-39, 2014.
+
+   Upper bounds on the spanning ratio of constrained theta-graphs.
+   P. Bose and A. van Renssen.
+   In Proceedings of the 11th Latin American Symposium on Theoretical Informatics (LATIN 2014), volume 8392 of Lecture Notes in Computer Science, pages 108-119, 2014.
+
+   On the spanning ratio of theta-graphs.
+   P. Bose, A. van Renssen, and S. Verdonschot.
+   In Proceedings of the 13th Algorithms and Data Structures Symposium (WADS 2013), volume 8037 of Lecture Notes in Computer Science, pages 182-194, 2013.
+
+   On the stretch factor of the theta-4 graph.
+   L. Barba, P. Bose, J.-L. De Carufel, A. van Renssen, and S. Verdonschot.
+   In Proceedings of the 13th Algorithms and Data Structures Symposium (WADS 2013), volume 8037 of Lecture Notes in Computer Science, pages 109-120, 2013.
+
+   Theta-3 is connected.
+   O. Aichholzer, S. W. Bae, L. Barba, P. Bose, M. Korman, A. van Renssen, P. Taslakian, and S. Verdonschot.
+   In Proceedings of the 25th Canadian Conference on Computational Geometry (CCCG 2013), pages 205-210, 2013.
+
+   The $\theta_5$-graph is a spanner.
+   P. Bose, P. Morin, A. van Renssen, and S. Verdonschot.
+   In Proceedings of the 39th International Workshop on Graph-Theoretic Concepts in Computer Science (WG 2013), volume 8165 of Lecture Notes in Computer Science, pages 100-114, 2013.
+
+   Optimal bounds on theta-graphs: More is not always better.
+   P. Bose, J.-L. De Carufel, P. Morin, A. van Renssen, and S. Verdonschot.
+   In Proceedings of the 24th Canadian Conference on Computational Geometry (CCCG 2012), pages 305-310, 2012.
+
+   Competitive routing on a bounded-degree plane spanner.
+   P. Bose, R. Fagerberg, A. van Renssen, and S. Verdonschot.
+   In Proceedings of the 24th Canadian Conference on Computational Geometry (CCCG 2012), pages 299-304, 2012.
+
+   On plane constrained bounded-degree spanners.
+   P. Bose, R. Fagerberg, A. van Renssen, and S. Verdonschot.
+   In Proceedings of the 10th Latin American Symposium on Theoretical Informatics (LATIN 2012), volume 7256 of Lecture Notes in Computer Science, pages 85-96, 2012.
+
+   Competitive routing in the half-$\theta_6$-graph.
+   P. Bose, R. Fagerberg, A. van Renssen, and S. Verdonschot.
+   In Proceedings of the 23rd ACM-SIAM Symposium on Discrete Algorithms (SODA 2012), pages 1319-1328, 2012.
+
+   The 2$\times$2 simple packing problem.
+   A. van Renssen and B. Speckmann.
+   In Proceedings of the 23rd Canadian Conference on Computational Geometry (CCCG 2011), pages 387-392, 2011.
+
+   Making triangulations 4-connected using flips.
+   P. Bose, D. Jansens, A. van Renssen, M. Saumell, and S. Verdonschot.
+   In Proceedings of the 23rd Canadian Conference on Computational Geometry (CCCG 2011), pages 241-247, 2011.
+
+   Area-preserving subdivision schematization.
+   W. Meulemans, A. van Renssen, and B. Speckmann.
+   In Proceedings of the 6th International Conference on Geographic Information Science (GIScience 2010), volume 6292 of Lecture Notes in Computer Science, pages 160-174, 2010.
+
+
+Abstracts.
+
+   Separation anxiety: A well-separated pair decomposition and separator for $c$-packed graphs.
+   L. Deryckere, J. Gudmundsson, A. van Renssen, Y. Sha, and S. Wong.
+   Computational Geometry: Young Researchers Forum (CG:YRF 2025), pages 5-7, 2025.
+
+   Oriented spanners.
+   K. Buchin, J. Gudmundsson, A. Kalb, A. Popov, C. Rehs, A. van Renssen, and S. Wong.
+   39th European Workshop on Computational Geometry (EuroCG 2023), pages 46:1-46:9, 2023.
+
+   Local routing in a tree metric 1-spanner.
+   M. Brankovic, J. Gudmundsson, and A. van Renssen.
+   36th European Workshop on Computational Geometry (EuroCG 2020), pages 76:1-76:5, 2020.
+
+   Covering a set of line segments with a few squares.
+   J. Gudmundsson, M. van de Kerkhof, A. van Renssen, F. Staals, L. Wiratma, and S. Wong.
+   36th European Workshop on Computational Geometry (EuroCG 2020), pages 45:1-45:8, 2020.
+
+   Frechet distance queries in trajectory data.
+   J. Gudmundsson, A. van Renssen, Z. Saeidi, and S. Wong.
+   3rd Iranian Conference on Computational Geometry (ICCG 2020), pages 29-32, 2020.
+
+   Reconfiguring edge-connected pivoting modular robots.
+   H. A. Akitaya, E. D. Arkin, M. Damian, E. D. Demaine, V. Dujmović, R. Flatland, M. Korman, B. Palop, I. Parada, A. van Renssen, and V. Sacristán.
+   XVIII Spanish Meeting on Computational Geometry (EGC 2019), 2019.
+
+   Routing in histograms.
+   M.-K. Chiu, J. Cleve, K. Klost, M. Korman, W. Mulzer, A. van Renssen, M. Roeloffzen, and M. Willert.
+   35th European Workshop on Computational Geometry (EuroCG 2019), 2019.
+
+   Rectilinear link diameter and radius in a rectilinear polygonal domain.
+   M.-K. Chiu, E. Khramtcova, A. Markovic, Y. Okamoto, A. Ooms, A. van Renssen, and M. Roeloffzen.
+   34th European Workshop on Computational Geometry (EuroCG 2018), pages 2:1-2:6, 2018.
+
+   Routing in polygonal domains.
+   B. Banyassady, M. Korman, W. Mulzer, A. van Renssen, M. Roeloffzen, P. Seiferth, Y. Stein, B. Vogtenhuber, and M. Willert.
+   20th Japan Conference on Discrete and Computational Geometry, Graphs, and Games (JCDCG^3 2017), pages 88-89, 2017.
+
+   A lower bound for the dynamic conflict-free coloring of intervals with respect to points.
+   M. de Berg, T. Leijsen, A. van Renssen, M. Roeloffzen, A. Markovic, and G. Woeginger.
+   33rd European Workshop on Computational Geometry (EuroCG 2017), pages 185-188, 2017.
+
+   Kinetic all-pairs shortest path in a simple polygon.
+   Y. Diez, M. Korman, A. van Renssen, M. Roeloffzen, and F. Staals.
+   33rd European Workshop on Computational Geometry (EuroCG 2017), pages 21-24, 2017.
+
+   Routing in simple polygons.
+   M. Korman, W. Mulzer, A. van Renssen, M. Roeloffzen, P. Seiferth, Y. Stein, B. Vogtenhuber, and M. Willert.
+   33rd European Workshop on Computational Geometry (EuroCG 2017), pages 17-20, 2017.
+
+   Constrained generalized Delaunay graphs are plane spanners.
+   P. Bose, J.-L. De Carufel, and A. van Renssen.
+   9th Annual Meeting of the Asian Association for Algorithms and Computation (AAAC 2016), 2016.
+
+   Time-space trade-offs for triangulating a simple polygon.
+   B. Aronov, M. Korman, S. Pratt, A. van Renssen, and M. Roeloffzen.
+   32nd European Workshop on Computational Geometry (EuroCG 2016), 2016.
+
+   On kinetic range spaces and their applications.
+   J.-L. De Carufel, M. Katz, M. Korman, A. van Renssen, M. Roeloffzen, and S. Smorodinsky.
+   32nd European Workshop on Computational Geometry (EuroCG 2016), 2016.
+
+   Time-space trade-offs for triangulating a simple polygon.
+   B. Aronov, M. Korman, S. Pratt, A. van Renssen, and M. Roeloffzen.
+   Fall Workshop on Computational Geometry (FWCG 2015), 2015.
+
+   Symmetric assembly puzzles are hard, beyond a few pieces.
+   E. D. Demaine, M. Korman, J. S. Ku, J. Mitchell, Y. Otachi, A. van Renssen, M. Roeloffzen, R. Uehara, and Y. Uno.
+   18th Japan Conference on Discrete and Computational Geometry and Graphs (JCDCG^2 2015), 2015.
+
+   Time-space trade-offs for Voronoi diagrams.
+   M. Korman, W. Mulzer, A. van Renssen, M. Roeloffzen, P. Seiferth, and Y. Stein.
+   31st European Workshop on Computational Geometry (EuroCG 2015), pages 248-251, 2015.
+
+   Constrained generalized Delaunay graphs are plane spanners.
+   P. Bose, J.-L. De Carufel, and A. van Renssen.
+   31st European Workshop on Computational Geometry (EuroCG 2015), pages 176-179, 2015.
+
+   New and improved stretch factors of Yao graphs.
+   L. Barba, P. Bose, M. Damian, R. Fagerberg, W. L. Keng, J. O’Rourke, A. van Renssen, P. Taslakian, S. Verdonschot, and G. Xia.
+   Fall Workshop on Computational Geometry (FWCG 2013), 2013.
+
+
+Multidisciplinary Papers.
+
+   Multi-hop driver-parcel matching with dynamic network partitioning: When is it more beneficial to split trips in on-demand logistics services?.
+   Y. Yang, M. Ramezani, and A. van Renssen.
+   27th International Conference of Hong Kong Society for Transportation Studies (HKSTS), 2023.
+
+   On utilization bounds for a periodic resource under rate monotonic scheduling.
+   A. van Renssen, S. Geuns, J. Hausmans, W. Poncin, and R. Bril.
+   Proceedings of the Work-in-Progress session of the 21st Euromicro Conference on Real-Time Systems (ECRTS 2009), pages 25-28, 2009.
+
+
+Computer Science Education Papers.
+
+   Designing problem sessions for algorithmic subjects to boost student confidence.
+   A. van Renssen.
+   In Proceedings of the 26th Australasian Computing Education Conference (ACE 2024), pages 164-171, 2024.
+
+
+Theses.
+
+   Theta-graphs and other constrained spanners.
+   A. van Renssen.
+   PhD thesis, Carleton University, 2014.
+
+   The 2$\times$2 simple packing problem.
+   A. van Renssen.
+   Master’s thesis, Eindhoven University of Technology, 2010.
+
+
+Generated by Publy 1.4.  Last modified on 4 November 2025.
