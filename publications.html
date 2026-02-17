@@ -78,6 +78,26 @@
 
         <h2 class="section-title">Currently Under Review</h2>
         <ul class="section-list">
+          <li id="GHRW2026FréchetEditDistance" class="bibentry inproceedings">
+            <h4 class="title">Faster Fréchet edit distance</h4>
+            <button class="abstract-toggle">Abstract</button><br>
+            <div class="abstract-container tex2jax_ignore"><div class="abstract">
+              <span class="abstractword">Abstract: </span>We study the <i>Fréchet Edit Distance (FED)</i> problem introduced by Fox, Nayyeri, Perry, and Raichel (SoCG 2024), which extends the classical Fréchet distance by allowing vertex insertions and deletions prior to measuring the similarity between two polygonal curves. The edit operations—insertions and/or deletions—may be applied to either one or both curves. Given two curves with $n$ vertices, the decision version of the FED problem asks whether at most $k$ edits can transform the input curves so that their Fréchet distance falls below a given threshold. <p class="tab">We present improved algorithms for computing the continuous FED under various edit models. Whether deletions are allowed on only one or on both curves, we obtain an $\widetilde{O}(kn^2)$-time algorithm and a near-matching lower bound, where $\widetilde{O}(\cdot)$ hides polylogarithmic factors in $k$ and $n$. For the insertion-only case, we show that regardless of whether insertions are allowed on one or both curves, FED can be solved in $\widetilde{O}(kn^3)$ time. Finally, when both insertions and deletions are permitted on a single curve, we provide an $\widetilde{O}(k^2 n^3)$ time algorithm. These results improve on existing results by up to a factor of $k \cdot n$.</p>
+            </div></div>
+            <span class="author">J. Gudmundsson</span>, <span class="author">Z. Huang</span>, <span class="author">A. van Renssen</span>, and <span class="author">S. Wong</span>.<br>
+            Submitted to <span class="booktitle">the 53rd International Colloquium on Automata, Languages, and Programming (ICALP 2026)</span>.<br>
+          </li>
+
+          <li id="BLNNORSWX2026VisibilityQuery" class="bibentry inproceedings">
+            <h4 class="title">Visibility queries in simple polygons</h4>
+            <button class="abstract-toggle">Abstract</button><br>
+            <div class="abstract-container tex2jax_ignore"><div class="abstract">
+              <span class="abstractword">Abstract: </span>Given a simple polygon $P$ with $n$ vertices, we consider the problem of constructing a data structure for visibility queries: for any query point $q \in P$, compute the visibility polygon of $q$ in $P$. To obtain $O(\log n + k)$ query time, where $k$ is the size of the visibility polygon of $q$, the previous best result requires $O(n^3)$ space. In this paper, we propose a new data structure that uses $O(n^{2+\epsilon})$ space, for any $\epsilon > 0$, while achieving the same query time. If only $O(n^2)$ space is available, the best known result provides $O(\log^2 n + k)$ query time. We improve this to $O(\log n \log \log n + k)$ time. When restricted to $o(n^2)$ space, the only previously known approach, aside from the $O(n)$-time algorithm that computes the visibility polygon without preprocessing, is an $O(n)$-space data structure that supports $O(k \log n)$-time queries. We construct a data structure using $O(n \log n)$ space that answers visibility queries in $O(n^{1/2+\epsilon} + k)$ time. In addition, for the special case in which $q$ lies on the boundary of $P$, we build a data structure of $O(n \log n)$ space supporting $O(\log^2 n + k)$ query time; alternatively, we achieve $O(\log n + k)$ query time using $O(n^{1+\epsilon})$ space. To achieve our results, we propose a new method for decomposing simple polygons, which may be of independent interest.
+            </div></div>
+            <span class="author">S. Bhore</span>, <span class="author">C.-H. Liu</span>, <span class="author">A. M. Naredla</span>, <span class="author">Y. Nekrich</span>, <span class="author">E. Oh</span>, <span class="author">A. van Renssen</span>, <span class="author">F. Staals</span>, <span class="author">H. Wang</span>, and <span class="author">J. Xue</span>.<br>
+            Submitted to <span class="booktitle">the 53rd International Colloquium on Automata, Languages, and Programming (ICALP 2026)</span>.<br>
+          </li>
+
           <li id="GHRW2025SpannerJournal" class="bibentry article">
             <h4 class="title">Spanner for the $0/1/\infty$ weighted region problem</h4>
             <button class="abstract-toggle">Abstract</button><br>
@@ -163,34 +183,6 @@
             </div>
           </li>
 
-          <li id="AGR2025RobotsJournal" class="bibentry article">
-            <h4 class="title">The mutual visibility problem for fat robots with lights</h4>
-            <button class="abstract-toggle">Abstract</button><br>
-            <div class="abstract-container tex2jax_ignore"><div class="abstract">
-              <span class="abstractword">Abstract: </span>Given a set of $n\geq 1$ unit disk robots in the Euclidean plane, we consider the fundamental problem of providing mutual visibility to them: the robots must reposition themselves to reach a configuration where they all see each other. This problem arises under obstructed visibility, where a robot cannot see another robot if there is a third robot on the straight line segment between them. This problem was solved by Sharma <i>et al.</i> [G. Sharma, R. Alsaedi, C. Busch, and S. Mukhopadhyay. The complete visibility problem for fat robots with lights. In Proceedings of the 19th International Conference on Distributed Computing and Networking, pages 1-4, 2018.] in the luminous robots model, where each robot is equipped with an externally visible light that can assume colors from a fixed set of colors, using 9 colors and $O(n)$ rounds. In this work, we present an algorithm that requires only 2 colors and $O(n)$ rounds. The number of colors is optimal since at least two colors are required for point robots [G.A. Di Luna, P. Flocchini, S.G. Chaudhuri, F. Poloni, N. Santoro, and G. Viglietta. Mutual visibility by luminous robots without collisions. Information and Computation, 254:392-418, 2017.].
-            </div></div>
-            <span class="author">R. J. Alsaedi</span>, <span class="author">J. Gudmundsson</span>, and <span class="author">A. van Renssen</span>.<br>
-            Submitted to <span class="article">Computing in Geometry and Topology (CGT)</span>.<br>
-            <div class="links">
-              <a href="http://arxiv.org/abs/2206.14423">arXiv</a>
-              <a href="#AGR2023Robots">Conference-version</a>
-            </div>
-            <button class="bibtex-toggle">BibTeX</button>
-            <div class="bibtex-container">
-              <pre class="bibtex">
-@article{AGR2025RobotsJournal,
-  author={Alsaedi, Rusul J. and Gudmundsson, Joachim and van Renssen, Andr\'e},
-  title={The Mutual Visibility Problem for Fat Robots with Lights},
-  year={2025},
-  journal={ArXiv e-prints},
-  archivePrefix={arXiv},
-  eprint={2206.14423},
-  note={\href{http://arxiv.org/abs/2206.14423}{arXiv:2206.14423}},
-  url={http://arxiv.org/abs/2206.14423}
-}</pre>
-            </div>
-          </li>
-
         </ul>
       </div>
 
@@ -208,6 +200,32 @@
 
         <h2 class="section-title">Journal Papers</h2>
         <ul class="section-list">
+          <li id="AGR2026RobotsJournal" class="bibentry article">
+            <h4 class="title">The mutual visibility problem for fat robots with lights</h4>
+            <button class="abstract-toggle">Abstract</button><br>
+            <div class="abstract-container tex2jax_ignore"><div class="abstract">
+              <span class="abstractword">Abstract: </span>Given a set of $n\geq 1$ unit disk robots in the Euclidean plane, we consider the fundamental problem of providing mutual visibility to them: the robots must reposition themselves to reach a configuration where they all see each other. This problem arises under obstructed visibility, where a robot cannot see another robot if there is a third robot on the straight line segment between them. This problem was solved by Sharma <i>et al.</i> [ICDCN, 2018] in the luminous robots model, where each robot is equipped with an externally visible light that can assume colors from a fixed set of colors, using 9 colors and $O(n)$ rounds. In this work, we present an algorithm that requires only 2 colors and $O(n)$ rounds. The number of colors is optimal since at least two colors are required even for point robots [Di Luna <i>et al.</i>, Information and Computation, 2017].
+            </div></div>
+            <span class="author">R. J. Alsaedi</span>, <span class="author">J. Gudmundsson</span>, and <span class="author">A. van Renssen</span>.<br>
+            Accepted to <span class="article">Computing in Geometry and Topology (CGT)</span>.<br>
+            <div class="links">
+              <a href="https://www.dropbox.com/scl/fi/6o9e8cyn48xfn1zakbgla/Alsaedi-Gudmundsson-van-Renssen-The-Mutual-Visibility-Problem-for-Fat-Robots-with-Lights-CGT-2026.pdf">pdf</a>
+              <a href="http://arxiv.org/abs/2206.14423">arXiv</a>
+              <a href="#AGR2023Robots">Conference-version</a>
+            </div>
+            <button class="bibtex-toggle">BibTeX</button>
+            <div class="bibtex-container">
+              <pre class="bibtex">
+@article{AGR2026RobotsJournal,
+  author={Alsaedi, Rusul J. and Gudmundsson, Joachim and van Renssen, Andr\'e},
+  title={The Mutual Visibility Problem for Fat Robots with Lights},
+  journal={Computing in Geometry and Topology (CGT)},
+  year={2025}
+}
+</pre>
+            </div>
+          </li>
+
           <li id="BGKPRRW2026OrientedJournal" class="bibentry article">
             <h4 class="title">Oriented spanners</h4>
             <button class="abstract-toggle">Abstract</button><br>
@@ -1818,7 +1836,7 @@
               <a href="https://www.dropbox.com/scl/fi/gplzt9uepxbkyterew2mw/Alsaedi-Gudmundsson-van-Renssen-The-Mutual-Visibility-Problem-for-Fat-Robots-WADS-2023.pdf">pdf</a>
               <a href="http://arxiv.org/abs/2206.14423">arXiv</a>
               <a href="https://dx.doi.org/10.1007/978-3-031-38906-1_2">DOI</a>
-              <a href="#AGR2025RobotsJournal">Journal-version</a>
+              <a href="#AGR2026RobotsJournal">Journal-version</a>
             </div>
             <button class="bibtex-toggle">BibTeX</button>
             <div class="bibtex-container">
@@ -3881,8 +3899,10 @@
               <span class="abstractword">Abstract: </span>The rapid evolution of on-demand delivery services has significantly influenced traditional logistics, particularly in urban areas where there is a surge in customer demand for timely and efficient delivery of small to medium-sized parcels. These services experience inherent temporal-spatial imbalances in supply and demand, posing significant challenges for dynamic dispatching and routing. To address this challenge, this paper investigates the concept of <i>spatial divisions of labor</i> in on-demand deliveries where the delivery network is partitioned into several operational regions, each managed by designated couriers. To facilitate parcel transshipment between regions, a set of accessible lockers is strategically placed at the shared borders of adjacent regions. We introduce and address a multi-hop delivery with spatial divisions of labor (MDSDL) problem, which involves dynamic parcel-courier dispatching and routing to minimize total operational costs. A heuristic approach is developed for the MDSDL problem. To manage courier workload and minimize operational costs effectively, a novel graph conversion method is introduced in the heuristic approach. Extensive comparative experiments are conducted to demonstrate the advantages of the proposed approach. Implementing <i>spatial divisions of labor</i> not only enhances system efficiency and reduces operational costs but also improves the customer experience by reducing lateness and shortening ready-to-pickup times.
             </div></div>
             <span class="author">Y. Yang</span>, <span class="author">M. Ramezani</span>, and <span class="author">A. van Renssen</span>.<br>
-            Accepted to <span class="article">Transportation Research Part C (TRC)</span>.<br>
+            <span class="journal">Transportation Research Part C: Emerging Technologies (TRC)</span>, <span class="volume">184</span>:<span class="pages">105509</span>, <span class="date">2026</span>.<br>
             <div class="links">
+              <a href="https://www.dropbox.com/scl/fi/3smcu9w80dj2e8f50y4xc/Yang-van-Renssen-Ramezani-Dynamic-on-demand-delivery-with-spatial-divisions-of-labor-TRC-2026.pdf">pdf</a>
+              <a href="https://dx.doi.org/10.1016/j.trc.2025.105509">DOI</a>
               <a href="#YRR2023MultiHop">Workshop-version</a>
             </div>
             <button class="bibtex-toggle">BibTeX</button>
@@ -3891,9 +3911,12 @@
 @article{YRR2026MultiHopJournal,
   author={Yang, Yue and Ramezani, Mohsen and van Renssen, Andr\'e},
   title={Dynamic on-demand delivery with spatial divisions of labor},
-  journal={Transportation Research Part C (TRC)},
+  journal={Transportation Research Part C: Emerging Technologies (TRC)},
   year={2026},
-  note={multi}
+  volume={184},
+  pages={105509},
+  note={multi},
+  doi={10.1016/j.trc.2025.105509}
 }
 </pre>
             </div>
@@ -4086,6 +4109,6 @@
 
     </div>
 
-    <p>Generated by <a href="https://github.com/Mangara/publy">Publy 1.4</a>.&nbsp;&nbsp;Last modified on 6 January 2026.</p>
+    <p>Generated by <a href="https://github.com/Mangara/publy">Publy 1.4</a>.&nbsp;&nbsp;Last modified on 17 February 2026.</p>
   </body>
 </html>
