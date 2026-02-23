@@ -29,7 +29,7 @@ Journal Papers.
 
    The mutual visibility problem for fat robots with lights.
    R. J. Alsaedi, J. Gudmundsson, and A. van Renssen.
-   Computing in Geometry and Topology (CGT), 5(1):2:1-2:17, 2025.
+   Computing in Geometry and Topology (CGT), 5(1):2:1-2:17, 2026.
 
    Oriented spanners.
    K. Buchin, J. Gudmundsson, A. Kalb, A. Popov, C. Rehs, A. van Renssen, and S. Wong.
