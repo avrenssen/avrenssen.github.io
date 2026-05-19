@@ -82,30 +82,20 @@
             <h4 class="title">Euclidean TSP with mandatory returns to a river line</h4>
             <button class="abstract-toggle">Abstract</button><br>
             <div class="abstract-container tex2jax_ignore"><div class="abstract">
-              <span class="abstractword">Abstract: </span>We study a generalization of Heron’s classic reflection problem. This problem is often presented to high school students as follows: a farmer at $p_1$ must travel along a shortest path to the river, a horizontal line $L$, and then deliver water to a cow at $p_2$. Consider the following generalization. We are given two points $s, t \in L$ with $s$ left of $t$, together with a finite set $P$ of points lying on the same side of $L$. The objective is to compute a shortest path from $s$ to $t$ that visits all points of $P$, subject to the constraint that between any two consecutive visits to points of $P$, the path must visit $L$. <p class="tab">We show that, in some cases, visiting the points of $P$ in left-to-right order (by projection onto $L$) is suboptimal. This demonstrates that the problem has an inherent combinatorial component beyond classical shortest-path computation. However, when $|P| = 2$, this strategy yields a $1.25$-approximation of the optimal solution, and this bound is tight. Furthermore, in general, if the projections of all points in $P$ onto $L$ lie between $s$ and $t$, then this strategy yields a $1.34$-approximation, and a $1.25$-approximation if $|P| \leq 4$.</p>
+              <span class="abstractword">Abstract: </span>We study a generalization of Heron’s classic reflection problem. This problem is often presented to high school students as follows: a farmer at $p_1$ must travel along a shortest path to the river, a horizontal line $L$, and then deliver water to a cow at $p_2$. Consider the following generalization. We are given two points $s, t \in L$ with $s$ left of $t$, together with a finite set $P$ of points lying on the same side of $L$. The objective is to compute a shortest path from $s$ to $t$ that visits all points of $P$, subject to the constraint that between any two consecutive visits to points of $P$, the path must visit $L$. <p class="tab">We show that, in some cases, visiting the points of $P$ in left-to-right order (by projection onto $L$) is suboptimal. This demonstrates that the problem has an inherent combinatorial component beyond classical shortest-path computation. However, when $|P| = 2$, this strategy yields a $5/4$-approximation of the optimal solution, and this bound is tight. Furthermore, in general, if the projections of all points in $P$ onto $L$ lie between $s$ and $t$, then this strategy yields a $1.34$-approximation, and a $5/4$-approximation if $|P| \leq 4$.</p>
             </div></div>
             <span class="author">A. Biniaz</span>, <span class="author">J.-L. De Carufel</span>, <span class="author">A. Maheshwari</span>, <span class="author">S. Odak</span>, <span class="author">A. van Renssen</span>, <span class="author">M. Smid</span>, and <span class="author">S. Wong</span>.<br>
-            Submitted to <span class="booktitle">the 20th Scandinavian Symposium on Algorithm Theory (SWAT 2026)</span>.<br>
+            Submitted to <span class="booktitle">the 51st International Symposium on Mathematical Foundations of Computer Science (MFCS 2026)</span>.<br>
           </li>
 
-          <li id="GHRW2026FréchetEditDistance" class="bibentry inproceedings">
-            <h4 class="title">Faster Fréchet edit distance</h4>
+          <li id="CDGR2026Rotation" class="bibentry inproceedings">
+            <h4 class="title">Computing the fréchet distance under rotation when one curve is $c$-packed</h4>
             <button class="abstract-toggle">Abstract</button><br>
             <div class="abstract-container tex2jax_ignore"><div class="abstract">
-              <span class="abstractword">Abstract: </span>We study the <i>Fréchet Edit Distance (FED)</i> problem introduced by Fox, Nayyeri, Perry, and Raichel (SoCG 2024), which extends the classical Fréchet distance by allowing vertex insertions and deletions prior to measuring the similarity between two polygonal curves. The edit operations—insertions and/or deletions—may be applied to either one or both curves. Given two curves with $n$ vertices, the decision version of the FED problem asks whether at most $k$ edits can transform the input curves so that their Fréchet distance falls below a given threshold. <p class="tab">We present improved algorithms for computing the continuous FED under various edit models. Whether deletions are allowed on only one or on both curves, we obtain an $\widetilde{O}(kn^2)$-time algorithm and a near-matching lower bound, where $\widetilde{O}(\cdot)$ hides polylogarithmic factors in $k$ and $n$. For the insertion-only case, we show that regardless of whether insertions are allowed on one or both curves, FED can be solved in $\widetilde{O}(kn^3)$ time. Finally, when both insertions and deletions are permitted on a single curve, we provide an $\widetilde{O}(k^2 n^3)$ time algorithm. These results improve on existing results by up to a factor of $k \cdot n$.</p>
+              <span class="abstractword">Abstract: </span>We consider the problem of computing the continuous Fréchet distance between two polygonal curves of complexity $n$ under rotation. We consider the problem with and without a fixed center of rotation. The best known techniques to solve the <i>decision</i> version in the continuous case run in $O(n^{4+\frac{1}{3}}\log^2n)$ time for a fixed center of rotation, and $O(n^{10+\frac{1}{3}}\log^2n)$ time in the case where finding the center is part of the problem. We consider the case when one curve is $c$-packed and present deterministic $(1+\varepsilon)$-approximate \emph{decision} algorithms for the problem with and without a fixed center of rotation with running times $O(\frac{c^2}{\varepsilon^2} n)$ and $O(\frac{c^2}{\varepsilon^4} n)$ respectively. We then extend the techniques to $(1+\varepsilon)$-approximate the actual distance in $O(\frac{c^2}{\varepsilon^2} n \log (\frac{n}{\varepsilon}))$ and $O(\frac{c^2}{\varepsilon^4} n\log(\frac{n}{\varepsilon}))$ time respectively. Our algorithms do not require knowledge of the value of $c$. <p class="tab">Finally, given any constant $\mu\in(0,\frac{1}{2})$, we show there is no $1.0001$-approximation algorithm for the Fréchet distance \emph{decision} problem between two $c$-packed curves of size $n$ under rotation around a fixed center that runs in $O((c^2n)^{1-2\mu}+n^{1+\mu})$, for any $c$, unless SETH fails.</p>
             </div></div>
-            <span class="author">J. Gudmundsson</span>, <span class="author">Z. Huang</span>, <span class="author">A. van Renssen</span>, and <span class="author">S. Wong</span>.<br>
-            Submitted to <span class="booktitle">the 53rd International Colloquium on Automata, Languages, and Programming (ICALP 2026)</span>.<br>
-          </li>
-
-          <li id="BLNNORSWX2026VisibilityQuery" class="bibentry inproceedings">
-            <h4 class="title">Visibility queries in simple polygons</h4>
-            <button class="abstract-toggle">Abstract</button><br>
-            <div class="abstract-container tex2jax_ignore"><div class="abstract">
-              <span class="abstractword">Abstract: </span>Given a simple polygon $P$ with $n$ vertices, we consider the problem of constructing a data structure for visibility queries: for any query point $q \in P$, compute the visibility polygon of $q$ in $P$. To obtain $O(\log n + k)$ query time, where $k$ is the size of the visibility polygon of $q$, the previous best result requires $O(n^3)$ space. In this paper, we propose a new data structure that uses $O(n^{2+\epsilon})$ space, for any $\epsilon > 0$, while achieving the same query time. If only $O(n^2)$ space is available, the best known result provides $O(\log^2 n + k)$ query time. We improve this to $O(\log n \log \log n + k)$ time. When restricted to $o(n^2)$ space, the only previously known approach, aside from the $O(n)$-time algorithm that computes the visibility polygon without preprocessing, is an $O(n)$-space data structure that supports $O(k \log n)$-time queries. We construct a data structure using $O(n \log n)$ space that answers visibility queries in $O(n^{1/2+\epsilon} + k)$ time. In addition, for the special case in which $q$ lies on the boundary of $P$, we build a data structure of $O(n \log n)$ space supporting $O(\log^2 n + k)$ query time; alternatively, we achieve $O(\log n + k)$ query time using $O(n^{1+\epsilon})$ space. To achieve our results, we propose a new method for decomposing simple polygons, which may be of independent interest.
-            </div></div>
-            <span class="author">S. Bhore</span>, <span class="author">C.-H. Liu</span>, <span class="author">A. M. Naredla</span>, <span class="author">Y. Nekrich</span>, <span class="author">E. Oh</span>, <span class="author">A. van Renssen</span>, <span class="author">F. Staals</span>, <span class="author">H. Wang</span>, and <span class="author">J. Xue</span>.<br>
-            Submitted to <span class="booktitle">the 53rd International Colloquium on Automata, Languages, and Programming (ICALP 2026)</span>.<br>
+            <span class="author">L. Deryckere</span>, <span class="author">J. Gudmundsson</span>, and <span class="author">A. van Renssen</span>.<br>
+            Submitted to <span class="booktitle">the 34th European Symposium on Algorithms (ESA 2026)</span>.<br>
           </li>
 
           <li id="GHRW2025SpannerJournal" class="bibentry article">
@@ -1653,6 +1643,31 @@
         <p class="section-note">Conference papers that I presented are marked with <img src="images/presentation.png" alt="(presented)" class="presented">.<br><span class="attribution">(Icon by <a href="http://www.doublejdesign.co.uk/">Double-J Design</a>, used under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution license</a>)</span></p>
 
         <ul class="section-list">
+          <li id="BLNNORSWX2026VisibilityQuery" class="bibentry inproceedings">
+            <h4 class="title">Visibility queries in simple polygons</h4>
+            <button class="abstract-toggle">Abstract</button><br>
+            <div class="abstract-container tex2jax_ignore"><div class="abstract">
+              <span class="abstractword">Abstract: </span>Given a simple polygon $P$ with $n$ vertices, we consider the problem of constructing a data structure for visibility queries: for any query point $q \in P$, compute the visibility polygon of $q$ in $P$. To obtain $O(\log n + k)$ query time, where $k$ is the size of the visibility polygon of $q$, the previous best result requires $O(n^3)$ space. In this paper, we propose a new data structure that uses $O(n^{2+\epsilon})$ space, for any $\epsilon > 0$, while achieving the same query time. If only $O(n^2)$ space is available, the best known result provides $O(\log^2 n + k)$ query time. We improve this to $O(\log n \log \log n + k)$ time. When restricted to $o(n^2)$ space, the only previously known approach, aside from the $O(n)$-time algorithm that computes the visibility polygon without preprocessing, is an $O(n)$-space data structure that supports $O(k \log n)$-time queries. We construct a data structure using $O(n \log n)$ space that answers visibility queries in $O(n^{1/2+\epsilon} + k)$ time. In addition, for the special case in which $q$ lies on the boundary of $P$, we build a data structure of $O(n \log n)$ space supporting $O(\log^2 n + k)$ query time; alternatively, we achieve $O(\log n + k)$ query time using $O(n^{1+\epsilon})$ space. To achieve our results, we propose a new method for decomposing simple polygons, which may be of independent interest.
+            </div></div>
+            <span class="author">S. Bhore</span>, <span class="author">C.-H. Liu</span>, <span class="author">A. M. Naredla</span>, <span class="author">Y. Nekrich</span>, <span class="author">E. Oh</span>, <span class="author">A. van Renssen</span>, <span class="author">F. Staals</span>, <span class="author">H. Wang</span>, and <span class="author">J. Xue</span>.<br>
+            Accepted to <span class="booktitle">the 53rd International Colloquium on Automata, Languages, and Programming (ICALP 2026)</span>.<br>
+            <div class="links">
+              <a href="https://www.dropbox.com/scl/fi/n1obvk16i1amgwvz2nd93/Sujoy-Bhore-Chih-Hung-Liu-Anurag-Murty-Naredla-Yakov-Nekrich-Eunjin-Oh-Andr-van-Renssen-Frank-Staals-Haitao-Wang-Jie-Xue-Visibility-Queries-in-Simple-Polygons-ICALP-2026.pdf">pdf</a>
+              <a href="http://arxiv.org/abs/2605.03334">arXiv</a>
+            </div>
+            <button class="bibtex-toggle">BibTeX</button>
+            <div class="bibtex-container">
+              <pre class="bibtex">
+@inproceedings{BLNNORSWX2026VisibilityQuery,
+  author={Bhore, Sujoy and Liu, Chih-Hung and Naredla, Anurag Murty and Nekrich, Yakov and Oh, Eunjin and van Renssen, Andr\'e and Staals, Frank and Wang, Haitao and Xue, Jie},
+  title={Visibility Queries in Simple Polygons},
+  booktitle={Proceedings of the 53rd International Colloquium on Automata, Languages, and Programming (ICALP 2026)},
+  year={2026}
+}
+</pre>
+            </div>
+          </li>
+
           <li id="RS2025OrderedThetaRouting" class="bibentry inproceedings">
             <h4 class="title">Local routing on ordered $\Theta$-graphs</h4>
             <button class="abstract-toggle">Abstract</button><br>
@@ -4124,6 +4139,6 @@
 
     </div>
 
-    <p>Generated by <a href="https://github.com/Mangara/publy">Publy 1.4</a>.&nbsp;&nbsp;Last modified on 23 February 2026.</p>
+    <p>Generated by <a href="https://github.com/Mangara/publy">Publy 1.4</a>.&nbsp;&nbsp;Last modified on 19 May 2026.</p>
   </body>
 </html>
