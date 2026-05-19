@@ -4,8 +4,8 @@ Currently Under Review.
    A. Biniaz, J.-L. De Carufel, A. Maheshwari, S. Odak, A. van Renssen, M. Smid, and S. Wong.
    Submitted to the 51st International Symposium on Mathematical Foundations of Computer Science (MFCS 2026).
 
-   Computing the fréchet distance under rotation when one curve is $c$-packed.
-   L. Deryckere, J. Gudmundsson, and A. van Renssen.
+   Computing the Fréchet distance under rotation when one curve is $c$-packed.
+   S.-W. Cheng, L. Deryckere, J. Gudmundsson, and A. van Renssen.
    Submitted to the 34th European Symposium on Algorithms (ESA 2026).
 
    Spanner for the $0/1/\infty$ weighted region problem.
